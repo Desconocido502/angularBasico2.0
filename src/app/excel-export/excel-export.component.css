@@ -1,0 +1,15 @@
+/* Estilo para el botón */
+button {
+    background-color: #007bff; /* Color de fondo */
+    color: #fff; /* Color del texto */
+    border: none; /* Sin borde */
+    border-radius: 5px; /* Borde redondeado */
+    padding: 10px 20px; /* Relleno interior */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+  }
+  
+  /* Estilo cuando el cursor está sobre el botón */
+  button:hover {
+    background-color: #0056b3; /* Cambia el color de fondo al pasar el cursor */
+  }
+  
